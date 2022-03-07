@@ -1,0 +1,37 @@
+<?php
+return [
+    'mainTitle'=>'Product Entities',
+    'tableId'=>'Id',
+    'tableOldId'=>'Old Id',
+    'tableTitle'=>'Product Name',
+    'tableImgUrl'=>'Product Img',
+    'tablePrice'=>'Product Price',
+    'tableStatus'=>'Status',
+    'tableDescription'=>'Description',
+    'tableAccounting_code'=>'Accounting Code',
+    'tableStock_code'=>'Stock Code',
+    'ProductEntities'=>'is Name Product Detail',
+    'tableAction'=>'Actions',
+    'search'=>'Search',
+    'create'=>'Add New Product Entity',
+    'edit'=>'Edit',
+    'delete'=>'Delete',
+
+    'labelOld_id'=>'Old id',
+    'Old_idPlaceholder'=>'Old id',
+    'labelStock_code'=>'Stock Code',
+    'labelPrice'=>'Price',
+    'PricePlaceholder'=>'Price',
+    'labelAccounting_code'=>'Accounting Code',
+    'Accounting_codePlaceholder'=>'Accounting Code',
+    'Stock_codePlaceholder'=>'Stock Code',
+
+    'ImgUrl'=>'Product Img',
+    'OldId'=>'Old Id',
+    'labelTitle'=>'Product Name',
+    'labelDescription'=>'Description',
+    'titlePlaceholder'=>'Enter Product Name',
+    'descriptionPlaceholder'=>'Enter Description',
+    'btnSave'=>'Save',
+    'formHeading'=>'Actions'
+];

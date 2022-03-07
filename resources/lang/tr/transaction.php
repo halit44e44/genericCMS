@@ -1,0 +1,26 @@
+<?php
+return [
+    'mainTitle'=>'Tüm İşlemler',
+    'tableId'=>'#',
+    'transactionId'=>'İşlem',
+    'companyId'=>'Kurum',
+    'client'=>'Müşteri',
+    'singlePrice'=>'Tek Fiyat',
+    'totalPrice'=>'Toplam Fiyat',
+    'percentage'=>'Yüzde',
+    'percentageSp'=>'Yüzde Tek Fiyat',
+    'code'=>'Kod',
+    'percentageTp'=>'Yüzde Toplam Fiyat',
+    'soldCodes'=>'KOD',
+    'qty'=>'Miktar',
+    'date'=>'Tarih', 
+    'status'=>'Durum',
+    'search'=>'Ara',   
+    'epinProductEntity'=>'Entity',   
+    'formHeading'=>'İşlemler',
+    'cName'=>'Müşteri Adı',
+    'cEmail'=>'Müşteri Email',
+    'cPhone'=>'Müşteri Telefon',
+    'cIp'=>'Müşteri Ip',
+
+];

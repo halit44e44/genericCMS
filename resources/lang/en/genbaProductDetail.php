@@ -1,0 +1,53 @@
+<?php
+return [
+    'mainTitle'=>'Genba Product Detail',
+    'tableId'=>'Id',
+    'regionCode'=>'Region Code',
+    'currencyCode'=>'Currency Code',
+    'wsp'=>'Wsp',
+    'srp'=>'Srp',
+    'name'=>'Name',
+
+    'isPromotion'=>'Promotion',
+    'priceDetails'=>'Price Details',
+    'sku'=>'Sku',
+    'isBundle'=>'DLC Bundle',
+    'status'=>'Status',
+    'detailSync'=>'Detail Sync',
+    'priceSync'=>'Price Sync',
+    'trPrice'=>'TR Price',
+    'enPrice'=>'EN Price',
+    'eurPrice'=>'EUR Price',
+    'productDetails'=>'Product Details',
+    'age'=>'Age Restriction',
+    'genbaProducts'=>'Genba Products',
+    'product_id'=>'Product Id',
+    'developer'=>'Developer',
+    'system'=>'System',
+    'publisher'=>'Publisher',
+    'lable'=>'Lable',
+    'language'=>'Language',
+    'parentCategory'=>'Parent Category',
+    'values'=>'Values',
+    'localisedName'=>'Localised Name',
+    'localisedKeyFeatures'=>'Localised Key Features',
+    'legalText'=>'Legal Text',
+    'localisedDescription'=>'Game Description',
+    'spokenLanguageSet'=>'Spoken Language',
+    'subtitleLanguageSet'=>'Subtitle Language',
+    'menuLanguageSet'=>'Menu Language',
+    'instruction'=>'Instruction',
+    'whitelistCountryCodes'=>'White List Country Codes',
+    'product'=>'Products',
+    'price'=>'Prices',
+    'metaData'=>'Meta Data',
+    'restriction'=>'Restrictions',
+    'subtitle'=>'Subtitle',
+    'menuLanguage'=>'Menu Language',
+    'description'=>'Description',
+
+
+
+
+
+];

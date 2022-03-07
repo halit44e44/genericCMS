@@ -1,0 +1,33 @@
+<?php
+return [
+    'mainTitle'=>'Genba Ürünler',
+    'addNew'=>'Yeni Ürün Ekle',
+    'productId'=>'Ürün Id',
+    'name'=>'Ürün Adı',
+    'sku'=>'Ürün Kodu',
+    'isBundle'=>'Paket Adı',
+    'status'=>'Durum',
+    'details'=>'Detaylar',
+    'price'=>'Fiyat Güncel',
+    'priceTr'=>'TR Fiyatı',
+    'priceEn'=>'EN Fiyatı',
+    'priceEur'=>'EUR Fiyatı',
+    'regionCode'=>'Ülke Kodu',
+    'tableId'=>'Id',
+    'tableName'=>'Ürün Adı',
+    'tableSku'=>'Ürün Kodu',
+    'tableisBundle'=>'Paket',
+    'tableStatus'=>'Durum',
+    'tableCreated_at'=>'Oluşturulma Tarihi',
+    'tableUpdated_at'=>'Güncellenme Tarihi',
+    'tableAction'=>'İşlemler',
+    'search'=>'Ara',
+    'create'=>'Yeni Ürün Ekle',
+    'edit'=>'Düzenle',
+    'delete'=>'Sil',
+    'labelName'=>'Ürün Adı',
+    'namePlaceholder'=>'Ürün Adı Giriniz',
+    'btnSave'=>'Kaydet',
+    'formHeading'=>'İşlemler'
+
+];
